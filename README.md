@@ -39,6 +39,13 @@ capability on complex terrain and develop systems focussed on space exploration.
 
 ---
 
+### 5️⃣ **CNC Etch-A-Sketch Home Assistant**
+🔹 **Tech Used:** [fill this out]  
+🔹 **Description:** [fill this out]   
+🔹 **Repo:** [📂 View Project](./cnc_etchasketch)  
+
+---
+
 ## 📬 Contact
 📧 Email: jonathan.is.green@gmail.com  
 🔗 LinkedIn: [Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jonathanjkg/))    
