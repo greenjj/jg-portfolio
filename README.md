@@ -11,34 +11,34 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 ## 📂 Projects
 
 ### 1️⃣ **High Jumping Tensegrity Robot for Space Exploration** 
-🔹 **Description:** Reimagine existing tensegrity based robotic structures to enhance
-capability on complex terrain and develop systems focussed on space exploration. With the Robotic Systems Lab at ETH Zurich.  
+🔹 **Description:** Reimagine existing tensegrity based robotic structures to enhance capability on complex terrain and develop systems focussed on space exploration. With the Robotic Systems Lab at ETH Zurich.  
 🔹 **Info:** [📂 View Project](./tensegrity_robot)  
-
+<img src="tensegrity_robot/robot_render.png" alt="pic" width="200"/>
 ---
 
 ### 2️⃣ **Distributed Control for Satellite Collision Avoidance**
-🔹 **Description:** [fill this out]   
+🔹 **Description:** Created a novel controller for satellites and proved that it had favourable properties
 🔹 **Info:** [📂 View Project](./sat_collision_avoidance)  
-
+<img src="sat_collision_avoidance/sat_figure.png" alt="pic" width="200"/>
 ---
 
 ### 3️⃣ **Automated Phone Spoofing Modem for Global Access**
-🔹 **Description:** [fill this out]   
+🔹 **Description:** Built a device that would allow me to use my Australian phone number from anywhere in the world, for free  
 🔹 **Info:** [📂 View Project](./phone_spoofer)  
+<img src="phone_spoofer/spoofer_inside.jpg" alt="pic" width="200"/>
 
 ---
 
 ### 4️⃣ **Curriculum Learning for Robust Agile Drone Flight**
-🔹 **Description:** [fill this out]   
+🔹 **Description:** Enhanced reinforcement learning to improve generalisation of agile drone flight controllers 
 🔹 **Info:** [📂 View Project](./agile_drone_flight)  
 
 ---
 
 ### 5️⃣ **CNC Etch-A-Sketch Home Assistant**
-🔹 **Description:** [fill this out]   
+🔹 **Description:** Developed an electro-mechanical home assistant device utilising a vintage children's toy as its display  
 🔹 **Info:** [📂 View Project](./cnc_etchasketch)  
-
+<img src="cnc_etchasketch/sketcher_front.jpg" alt="pic" width="200"/>
 ---
 
 ## 📬 Contact
