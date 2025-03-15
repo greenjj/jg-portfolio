@@ -19,7 +19,7 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 ---
 
 ### 2️⃣ **Distributed Control for Satellite Collision Avoidance**
-🔹 **Description:** Created a novel controller for satellites and proved that it had favourable properties
+🔹 **Description:** Created a novel controller for satellites and proved that it had favourable properties  
 🔹 **Info:** [📂 View Project](./sat_collision_avoidance)  
 <br>
 
@@ -36,7 +36,7 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 ---
 
 ### 4️⃣ **Curriculum Learning for Robust Agile Drone Flight**
-🔹 **Description:** Enhanced reinforcement learning to improve generalisation of agile drone flight controllers 
+🔹 **Description:** Enhanced reinforcement learning to improve generalisation of agile drone flight controllers   
 🔹 **Info:** [📂 View Project](./agile_drone_flight)  
 
 ---
