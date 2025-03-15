@@ -14,12 +14,15 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 🔹 **Description:** Reimagine existing tensegrity based robotic structures to enhance capability on complex terrain and develop systems focussed on space exploration. With the Robotic Systems Lab at ETH Zurich.  
 🔹 **Info:** [📂 View Project](./tensegrity_robot)  
 <br>
+
 <img src="tensegrity_robot/robot_render.png" alt="pic" width="400"/>
 ---
 
 ### 2️⃣ **Distributed Control for Satellite Collision Avoidance**
 🔹 **Description:** Created a novel controller for satellites and proved that it had favourable properties
 🔹 **Info:** [📂 View Project](./sat_collision_avoidance)  
+<br>
+
 <img src="sat_collision_avoidance/sat_figure.png" alt="pic" width="400"/>
 ---
 
@@ -27,6 +30,7 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 🔹 **Description:** Built a device that would allow me to use my Australian phone number from anywhere in the world, for free  
 🔹 **Info:** [📂 View Project](./phone_spoofer)  
 <br>
+
 <img src="phone_spoofer/spoofer_inside.jpg" alt="pic" width="400"/>
 
 ---
