@@ -10,39 +10,34 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 
 ## 📂 Projects
 
-### 1️⃣ **High Jumping Tensegrity Robot for Space Exploration**
-🔹 **Tech Used:** [fill this out]  
+### 1️⃣ **High Jumping Tensegrity Robot for Space Exploration** 
 🔹 **Description:** Reimagine existing tensegrity based robotic structures to enhance
 capability on complex terrain and develop systems focussed on space exploration. With the Robotic Systems Lab at ETH Zurich.  
-🔹 **Repo:** [📂 View Project](./tensegrity_robot)  
+🔹 **Info:** [📂 View Project](./tensegrity_robot)  
 
 ---
 
 ### 2️⃣ **Distributed Control for Satellite Collision Avoidance**
-🔹 **Tech Used:** [fill this out]  
 🔹 **Description:** [fill this out]   
-🔹 **Repo:** [📂 View Project](./sat_collision_avoidance)  
+🔹 **Info:** [📂 View Project](./sat_collision_avoidance)  
 
 ---
 
 ### 3️⃣ **Automated Phone Spoofing Modem for Global Access**
-🔹 **Tech Used:** [fill this out]  
 🔹 **Description:** [fill this out]   
-🔹 **Repo:** [📂 View Project](./phone_spoofer)  
+🔹 **Info:** [📂 View Project](./phone_spoofer)  
 
 ---
 
 ### 4️⃣ **Curriculum Learning for Robust Agile Drone Flight**
-🔹 **Tech Used:** [fill this out]  
 🔹 **Description:** [fill this out]   
-🔹 **Repo:** [📂 View Project](./agile_drone_flight)  
+🔹 **Info:** [📂 View Project](./agile_drone_flight)  
 
 ---
 
 ### 5️⃣ **CNC Etch-A-Sketch Home Assistant**
-🔹 **Tech Used:** [fill this out]  
 🔹 **Description:** [fill this out]   
-🔹 **Repo:** [📂 View Project](./cnc_etchasketch)  
+🔹 **Info:** [📂 View Project](./cnc_etchasketch)  
 
 ---
 
