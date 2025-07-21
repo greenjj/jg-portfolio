@@ -5,6 +5,8 @@ There is a huge push to create increasingly capable satellite constellations wit
 
 For detailed information and the relevant proofs, please see [the paper that we wrote about it](satellites.pdf).
 
+This project was the final component of Advanced Topics in Control at ETH Zürich.
+
 ## 🎯 Key Features
 - 🔹 Novel satellite position controller developed  
 - 🔹 Stability and convergenced proven   
