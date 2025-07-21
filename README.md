@@ -22,6 +22,9 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 ### 2️⃣ **Zero-Shot Generalisation with Reinforcement Learning for Agile Drone Flight**
 🔹 **Description:** Enhanced reinforcement learning to improve the ability of agile racing drone controllers to fly on unseen racetracks  
 🔹 **Info:** [📂 View Project](./agile_drone_flight)  
+<br>
+
+<img src="agile_drone_flight/fig8_deploy.png" alt="pic" width="450"/>
 
 ---
 
@@ -56,5 +59,4 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 📧 Email: jonathan.is.green@gmail.com  
 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/jonathanjkg/)    
 
----
-Feel free to reach out if you have any questions!
+Please reach out if you have any questions!
