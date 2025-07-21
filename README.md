@@ -29,7 +29,7 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 ---
 
 ### 3️⃣ **Automated Phone Spoofing Modem for Global Access**
-🔹 **Description:** Device that would allows me to use my Australian phone number from anywhere in the world (for free!)  
+🔹 **Description:** Device that allows me to use my Australian phone number from anywhere in the world (for free!)  
 🔹 **Info:** [📂 View Project](./phone_spoofer)  
 <br>
 
