@@ -6,7 +6,7 @@ This repository showcases my work in robotics, systems and control. Here you'll 
 I love to build things, and I'm deeply passionate about robotics, automation, and space. With experience across a range of programming language and robotics tools, I've put together this portfolio to demonstrate my expertise in:
 - 🤖 **Robotics & Automation**
 - 📊 **Simulation & Data Analysis**
-- 🛠 **Control Systems**
+- 🛠 **Control Systems & Machine Learning**
 
 ## 📂 Projects
 
