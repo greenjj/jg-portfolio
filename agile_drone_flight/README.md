@@ -1,16 +1,18 @@
 # 📌 Curriculum Learning for Robust Agile Drone Flight - IN PROGRESS
 
 ## 📖 Overview
-Reinforcement learning-based controllers have demonstrated remarkable success in enabling fast and agile flight. Currently, the training process of these reinforcement learning controllers relies on a static, pre-defined curriculum. We work to develop a dynamic and adaptable curriculum to enhance the robustness of the learning-based controllers. This curriculum continually adapts the training environment in an online fashion based on the controller's performance during the training process. By using this adaptive curriculum, we can enable more diverse, generalizable, and robust performance in unforeseen scenarios for drone flight.
+Reinforcement Learning (RL) has unlocked new levels of capability for autonomous drone racing. However, it falls short on zero-shot generalisation (ZSG), as learned controllers typically cannot successfully race on unseen tracks. We examine the problem of ZSG for autonomous drone racing, explore what contributes to improved generalisation, and propose a multi-task method that leverages parallelisation to train an RL agent capably of successful high-speed flight on complex unseen racetracks. Our approach outperforms the state-of-the-art for RL drone racing generalisation by a factor of 7.4, while only increasing laptimes by 15.8% on average. We demonstrate this both in simulation and by flying racetracks in the real world. We then extend this approach to pixel-based input training an end-to-end controller that demonstrates, for the first time, vision-based ZSG for high-speed autonomous drone racing.
 
-Master's Thesis with the Robotics and Perception Group at the University of Zürich.
+This was my [Master's Thesis](rpg_thesis_final.pdf) with the Robotics and Perception Group at the University of Zürich.
+
 
 ## 🎯 Key Features
-- 🔹 This is a work in progress! Check back soon
+- 🔹 Comprehensive end-to-end reinforcement learning pipeline enabling flight from pixels with zero-shot generalisation
+- 🔹 Results validated with real-world deployment
+- 🔹 Significant improvement over state-of-the-art
 
 ## 📊 Images
-This is a work in progress! Check back soon.
 
-For now, here's some images of said work in progress: trajectories from the learned controller deployed in simulation on completely unseen racetracks with reasonable success (zero-shot generalisation!)  
-
-<img src="mixed_deploy.png" alt="pic"/>
+<img src="deployment.png" alt="pic"/>
+<img src="manual_rpg_demo_2.gif" alt="pic"/>
+<img src="pipeline_novec.png" alt="pic"/>

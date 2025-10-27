@@ -10,21 +10,21 @@ I love to build things, and I'm deeply passionate about robotics, automation, an
 
 ## 📂 Projects
 
-### 1️⃣ **High Jumping Tensegrity Robot for Space Exploration** 
-🔹 **Description:** Steerable tensegrity based robotic created to enhance capability on the unstructrured terrain present on other planets.  
+### 1️⃣ **Zero-Shot Generalisation with Reinforcement Learning for Agile Drone Flight**
+🔹 **Description:** Enhanced reinforcement learning to enable high speed flight when deployed in new environments, including an end-to-end pipeline that can fly from pixels  
+🔹 **Info:** [📂 View Project](./agile_drone_flight)  
+<br>
+
+<img src="agile_drone_flight/output_trail.gif" alt="pic" width="450"/>
+
+---
+
+### 2️⃣ **High Jumping Tensegrity Robot for Space Exploration** 
+🔹 **Description:** Steerable tensegrity based robot created to enhance capability on the unstructrured terrain present on other planets.  
 🔹 **Info:** [📂 View Project](./tensegrity_robot)  
 <br>
 
 <img src="tensegrity_robot/robot_render.png" alt="pic" width="400"/>
-
----
-
-### 2️⃣ **Zero-Shot Generalisation with Reinforcement Learning for Agile Drone Flight**
-🔹 **Description:** Enhanced reinforcement learning to improve the ability of agile racing drone controllers to fly on unseen racetracks  
-🔹 **Info:** [📂 View Project](./agile_drone_flight)  
-<br>
-
-<img src="agile_drone_flight/fig8_deploy.png" alt="pic" width="450"/>
 
 ---
 
